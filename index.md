@@ -4,46 +4,38 @@ layout: default
 
 Text can be **bold**, _italic_, or ~~strikethrough~~.
 
-[Link to another page](./another-page.html).
+[Link to another page](./publications.html).
 
 There should be whitespace between paragraphs.
 
 There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
 
-# Header 1
+# Profesional experience
 
-This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
 
-## Header 2
+# Education
 
-> This is a blockquote following a header.
->
-> When something is important enough, you do it even if the odds are not in your favor.
+| Title        | Institution           | Period |
+|:-------------|:------------------|:------|
+| PhD in Fundamental Physics           | Universidad Nacional de Educación a Distancia | 2015-2019  |
+| Master of Science in Energies and Fuels | Universidad Autónoma de Madrid  | 2012-2013  |
+| Bachelor of Science in Physics (five years degree) | Universidad Complutense de Madrid | 2006-2012 |
 
-### Header 3
+In 2012 I won a grant to study for six months in the Geophysics Institute and Faculty of Sciences of Universidad Nacional Autónoma de México.
 
-```js
-// Javascript code with syntax highlighting.
-var fun = function lang(l) {
-  dateformat.i18n = require('./lang/' + l)
-  return true;
-}
-```
 
-```ruby
-# Ruby code with syntax highlighting
-GitHubPages::Dependencies.gems.each do |gem, version|
-  s.add_dependency(gem, "= #{version}")
-end
-```
+# Skills
+* 
+*
+*
 
-#### Header 4
+# Projects
 
 *   This is an unordered list following a header.
 *   This is an unordered list following a header.
 *   This is an unordered list following a header.
 
-##### Header 5
+## Interests
 
 1.  This is an ordered list following a header.
 2.  This is an ordered list following a header.
