@@ -2,36 +2,81 @@
 layout: default
 ---
 
+My name is Diego and I was born in Madrid in 1988. At the age of 6 my parents gave me a little book of astronomy which sparked my curiosity about the natural world. In 2006 I started my studies in Physics at Universidad Complutense de Madrid. In 2012 I completed the five years degree after spending the last six months at Universidad Nacional Autónoma de México. In 2013 I was really interested in renewables energies and fuels, so I studied a Master of Science about these topics at Universidad Autónoma de Madrid. 
+
+In 2014 I took my first steps as a data analyst in a digital company. After a year in which I learnt about CRM, marketing and google analytics, I decided to came back to the university as a predoctoral researcher. Four years later I defended a thesis with the title __Nanoscale hydrodynamics near solids__.  This period of my life shaped the way I deal with technical problems and helped me to realize that I enjoy the tools, the strategy and the methods to solve the problems even more than the problems themself. This is the reason why in 2019 I finally move to the data science field in the private sector.
+
+Now I am working as a data scientist in an insurtech company based on Madrid. 
+
+
+In this personal webpage you can find some of my projects, interests and a brief curriculum. If you want more details about my education and profesional experience [here](https://github.com/ddzumajo/ddzumajo.github.io/blob/master/cv.pdf) is my CV.
+
 
 # Profesional experience
 
-|                       |                                               |           |
-|:----------------------|:----------------------------------------------|:----------|
-|Data Scientist         | Evalua S.L.                                   | 2019->    |
-|Predoctoral researcher | Universidad Nacional de Educación a Distancia | 2015-2019 |
-|Data Analyst           | The Cocktail                                  | 2014-2015 |
-|Intern                 | Instituto Geológico y Minero                  | 2013      |
-|Intern                 | Iberia Líneas Aéreas de España                | 2010-2011 |
+|                       |              |                  |
+|:----------------------|:-------------|:-----------------|
+|Data Scientist         | E-valua      | 2019-> currently |
+|Predoctoral researcher | UNED         | 2015-2019        |
+|Data Analyst           | The Cocktail | 2014-2015        |
+|Intern                 | IGME         | 2013             |
+|Intern                 | Iberia       | 2010-2011        |
 
 
 # Education
 
-|              |                   |       |
-|:-------------|:------------------|:------|
-| PhD in Physics     | Universidad Nacional de Educación a Distancia | 2019 |
-| Master in Energies and Fuels   | Universidad Autónoma de Madrid  | 2013 |
-| Physics (five years degree) | Universidad Complutense de Madrid | 2012 |
-| Academic stay  | Universidad Nacional Autónoma de México | 2012 |
+|                   |                                   |      |
+|:------------------|:----------------------------------|:-----|
+| PhD in Physics    | UNED                              | 2019 |
+| Master of Science | Universidad Autónoma de Madrid    | 2013 |
+| Academic stay     | Universidad Nacional Autónoma de México | 2012 |
+| Physics           | Universidad Complutense de Madrid | 2012 |
 
 
 
 # Skills
 
+
+* **Python**. I love the language, specially the libraries numpy, scipy, pandas, sckitlearn, matplotlib and seaborn. 
+
+* **Java**. Useful and rigorous. Currently improving my programming skills with it. 
+
+* **SQL**. I am not an expert but everyday I have to write some queries.  
+
+* **R**. I did my first steps in the world of data analytics with it. Hope I remember something. 
+
+* **Apache Beam**. The first time I hate it. Now is my collegue and I use it to perform ETL processes. 
+
+* **Quicksight**. I do not like it but business people find it very usefull. I create business interactive reports with it.   
+
+* **Jupyter notebook**. Drafts, reports and stories. I know its limitations but it is one of my daily tools. 
+
+* **IDE's**. IntelliJ for Java and I would like to learn PyCharm. 
+
+* **LaTeX**. To write personal documents and create technical presentations. 
+
+* **Vim**. My default text editor. Just vim, without plugins or black magic. 
+
+
 # Projects
+
+* [Madrid noise pollution analysis](https://github.com/ddzumajo/ruido_madrid)
+
+* [Mortality and lethality caused by COVID-19. A spanish regional analysis and visualization](https://github.com/ddzumajo/covid19/blob/master/regional-analysis/covid19-regional.ipynb)
+
+* [Visualization of the main metrics used during the pandemic crisis caused by COVID-19](https://github.com/ddzumajo/covid19/blob/master/covid19.ipynb)
+
+* [Analysis and survival prediction model using the famous Titanic dataset](https://www.kaggle.com/diegodz/analysis-and-survival-prediction-model)
+
+* [Analysis and visualization of suicide data](https://www.kaggle.com/diegodz/analysis-and-visualization-of-suicide-data)
 
 [Link to another page](./publications.html).
 
 
 ## Interests
 
+I enjoy most of my time being outdoors. I practice mountain running and hiking the warmers months, and rock climbing and alpinism in winter. I am an appasionate of mountain races as well as road races. I have finished several marathons and ultra marathons.
 
+At home I spend my time reading books. I enjoy contemporary literature, graphic novel and popular science.
+
+I love writing. For years I wrote articles in several blogs and webs about literature, jazz, science and mountain sports.
