@@ -55,19 +55,20 @@ In this personal page you can find some of my public projects, interests and a b
 
 * [Madrid noise pollution analysis](https://github.com/ddzumajo/ruido_madrid)
 
-* [Mortality and lethality caused by COVID-19. A spanish regional analysis and visualization](https://github.com/ddzumajo/covid19/blob/master/regional-analysis/covid19-regional.ipynb)
+* [Mortality and lethality caused by COVID-19. A spanish regional analysis and visualization.](https://github.com/ddzumajo/covid19/blob/master/regional-analysis/covid19-regional.ipynb)
 
-* [Visualization of the main metrics used during the pandemic crisis caused by COVID-19](https://github.com/ddzumajo/covid19/blob/master/covid19.ipynb)
+* [Visualization of the main metrics used during the pandemic crisis caused by COVID-19.](https://github.com/ddzumajo/covid19/blob/master/covid19.ipynb)
 
-* [Analysis and survival prediction model using the famous Titanic dataset](https://www.kaggle.com/diegodz/analysis-and-survival-prediction-model)
+* [Analysis and survival prediction model using the famous Titanic dataset.](https://www.kaggle.com/diegodz/analysis-and-survival-prediction-model)
 
-* [Analysis and visualization of suicide data](https://www.kaggle.com/diegodz/analysis-and-visualization-of-suicide-data)
+* [Analysis and visualization of suicide data.](https://www.kaggle.com/diegodz/analysis-and-visualization-of-suicide-data)
+
+* [List of my scientific publications.](./publications.html)
+
+* [Thesis: Nanoscale hydrodynamics near solids.](http://62.204.194.43/fez/view/tesisuned:ED-Pg-Ciencias-Dduque)
 
 
-* [List of my scientific publications](./publications.html).
-
-
-## Interests
+# Interests
 
 I enjoy most of my time being outdoors. I practice mountain running and hiking the warmers months, and rock climbing and alpinism in winter. I am an appasionate of mountain races as well as road races. I have finished several marathons and ultra marathons.
 
