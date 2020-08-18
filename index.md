@@ -57,7 +57,7 @@ In this personal page you can find some of my public projects, interests and a b
 
 * [Mortality and lethality caused by COVID-19. A spanish regional analysis and visualization.](https://github.com/ddzumajo/covid19/blob/master/regional-analysis/covid19-regional.ipynb)
 
-* [Visualization of the main metrics used during the pandemic crisis caused by COVID-19.](https://github.com/ddzumajo/covid19/blob/master/covid19.ipynb)
+* [Visualization of the main metrics used during the pandemic crisis caused by COVID-19.](https://github.com/ddzumajo/covid19/blob/master/general-analysis/covid19-SpainAndMadrid.ipynb)
 
 * [Analysis and survival prediction model using the famous Titanic dataset.](https://www.kaggle.com/diegodz/analysis-and-survival-prediction-model)
 
