@@ -4,6 +4,8 @@ layout: default
 
 ## Publications
 
+* __Non-local viscosity from the Green–Kubo formula__. Ref: The Journal of Chemical Pyshics 152 (17), 174108 - Published 5 May 2020.
+
 * __Microscopic Slip Boundary Conditions in Unsteady Fluid Flows__. Ref: Phys. Rev. Lett. 123, 264501 – Published 24 December 2019.
 
 * __Discrete hydrodynamics near solid walls: Non-Markovian effects and the slip boundary condition__. Ref: Phys. Rev. E 100, 062133 – Published 24 December 2019.

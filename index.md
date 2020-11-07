@@ -9,7 +9,8 @@ In this personal page you can find some of my public projects, interests and a b
 
 |                       |              |                  |
 |:----------------------|:-------------|:-----------------|
-|Data Scientist         | E-valua      | 2019-> currently |
+|Data Analyst           | Keepler      | 2020-> currently |
+|Data Scientist         | E-valua      | 2019-2020        |
 |Predoctoral researcher | UNED         | 2015-2019        |
 |Data Analyst           | The Cocktail | 2014-2015        |
 |Intern                 | IGME         | 2013             |
